@@ -1,0 +1,22 @@
+{
+  "name": "easy-cookie-banner",
+  "version": "1.0.0",
+  "description": "The simple way to create a cookie banner on your Webpage",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classicCokie/easy-cookie-banner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classicCokie/easy-cookie-banner/issues"
+  },
+  "homepage": "https://github.com/classicCokie/easy-cookie-banner#readme"
+}
