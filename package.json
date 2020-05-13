@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "watchify src/index.js -o test/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/classicCokie/easy-cookie-banner/issues"
   },
-  "homepage": "https://github.com/classicCokie/easy-cookie-banner#readme"
+  "homepage": "https://github.com/classicCokie/easy-cookie-banner#readme",
+  "devDependencies": {
+    "watchify": "^3.11.1"
+  }
 }
